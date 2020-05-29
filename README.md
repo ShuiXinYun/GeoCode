@@ -1,6 +1,6 @@
 # GeoCode
 
-> some function about geography
+> some functions about geography
 
 ---
 
@@ -8,9 +8,9 @@
 
 + Identify a position is on land or sea or coastline(given coastline distance).
 + this package is based on [global_land_mask](https://github.com/toddkarin/global-land-mask)
-+ ![](./land_sea_sep/result/land_sea.png)
-+ ![](./land_sea_sep/result/coastline.png)
-+ ![](./land_sea_sep/result/coastline_1.png)
++ ![](./land_sea_sep/result/land_sea.jpg)
++ ![](./land_sea_sep/result/coastline.jpg)
++ ![](./land_sea_sep/result/coastline_1.jpg)
 
 ## reverse_geocode_cn
 
